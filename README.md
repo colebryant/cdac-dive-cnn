@@ -4,5 +4,5 @@ Sample code from ROV dive video processing project with the Center for Data and 
 
 Project Poster:
 
-<img src=".jpeg" width="600"/>
+<img src="CDAC Dive Processing Poster.png" width="600"/>
 
