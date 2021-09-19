@@ -1,15 +1,11 @@
 import pandas as pd
 import numpy as np
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.metrics import classification_report, accuracy_score, recall_score, precision_score, f1_score, confusion_matrix
-from sklearn.preprocessing import StandardScaler
 from tensorflow.keras import layers
 from tensorflow.keras.utils import to_categorical
 import tensorflow as tf
-from sklearn.model_selection import KFold
-import os
-import shutil
-import cv2 as cv
+# import os
+# import shutil
+# import cv2 as cv
 import matplotlib.pyplot as plt
 
 
