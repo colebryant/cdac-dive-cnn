@@ -6,3 +6,7 @@ Project Poster:
 
 <img src="CDAC Dive Processing Poster.png" width="1200"/>
 
+Symposium Presentation:
+
+https://www.youtube.com/watch?v=TuPKJV7Jta0&ab_channel=ColeBryant
+
